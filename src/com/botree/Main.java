@@ -4,8 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hi from praveena");
-		System.out.println("Hi to Vasumathi");
+		System.out.println("main branch by vasumathi");
 		
 	}
 
